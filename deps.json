@@ -1,0 +1,82 @@
+[
+  {
+    "pname": "ConsoleAppFramework",
+    "version": "5.2.4",
+    "hash": "sha256-6S/ykcWws0cFHtSjt8MSqE4nFILweycRpTjqlGBFy4M="
+  },
+  {
+    "pname": "K4os.Compression.LZ4",
+    "version": "1.3.8",
+    "hash": "sha256-OmT3JwO4qpkZDL7XqiFqZCyxySj64s9t+mXcN1T+IyA="
+  },
+  {
+    "pname": "KeyValues2",
+    "version": "0.5.0",
+    "hash": "sha256-VJboYwjcdbnVGMxxJYG+aK1qWRKvDdcLqpdWtQThjN0="
+  },
+  {
+    "pname": "SharpGLTF.Core",
+    "version": "1.0.3",
+    "hash": "sha256-soitgUKvRmRsdC0YaJnd6gbsWx2SLuT8g7Dm9Mdx7Bo="
+  },
+  {
+    "pname": "SharpGLTF.Runtime",
+    "version": "1.0.3",
+    "hash": "sha256-8kavlSXgEZVYKJumMn5wv8Ki1wHCO2wnOqQjmk7WdLs="
+  },
+  {
+    "pname": "SharpGLTF.Toolkit",
+    "version": "1.0.3",
+    "hash": "sha256-KaBIo/YcmJAp353qpdDsCJKDNH7pdEtlzpq6fPbgHo4="
+  },
+  {
+    "pname": "SkiaSharp",
+    "version": "3.116.1",
+    "hash": "sha256-EQW/zjk+GsJbpJ3zqyGARh3oHep8XgneWXcSTNnYwuk="
+  },
+  {
+    "pname": "SkiaSharp.NativeAssets.Linux.NoDependencies",
+    "version": "3.116.1",
+    "hash": "sha256-OGeR82WQhXaxw8jDgikyLImB+OdA+ql/PAn5mkYmjU8="
+  },
+  {
+    "pname": "SkiaSharp.NativeAssets.macOS",
+    "version": "3.116.1",
+    "hash": "sha256-GntlOA+Blrh43l97gHP7sZl4HY0+Hx84xId3+YTXLCE="
+  },
+  {
+    "pname": "SkiaSharp.NativeAssets.Win32",
+    "version": "3.116.1",
+    "hash": "sha256-oraulwAja3vee2T2n9sEveSTVI8/Kvku7r09yXLENI4="
+  },
+  {
+    "pname": "System.IO.Hashing",
+    "version": "8.0.0",
+    "hash": "sha256-szOGt0TNBo6dEdC3gf6H+e9YW3Nw0woa6UnCGGGK5cE="
+  },
+  {
+    "pname": "System.IO.Hashing",
+    "version": "9.0.0",
+    "hash": "sha256-k6Pdndm5fTD6CB1QsQfP7G+2h4B30CWIsuvjHuBg3fc="
+  },
+  {
+    "pname": "TinyEXR.NET",
+    "version": "0.3.8",
+    "hash": "sha256-Tr4orrSSA+Nql5Lu4jd2GiWvBPozNs3Dsx2An5Paxxs="
+  },
+  {
+    "pname": "ValveKeyValue",
+    "version": "0.12.0.391",
+    "hash": "sha256-N7yCM2srP1SFxcqYRjk9dt4pPHdxIetfpw2UMe7kOes="
+  },
+  {
+    "pname": "ValvePak",
+    "version": "2.0.1.107",
+    "hash": "sha256-Chkxw0qERouB+TASVIHlIUqSVTfGh3P9DINTgmoaSWU="
+  },
+  {
+    "pname": "ZstdSharp.Port",
+    "version": "0.8.3",
+    "hash": "sha256-N++LLt0B/EEZzH7+p+c/FuXHDvrtDUkcoED+FaSfiJY="
+  }
+]
